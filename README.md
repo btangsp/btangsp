@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @btangsp
-- 👀 I’m interested in a full-time position in UI/UX, Human-Computer Interaction, Artificial Intelligence, Machine Learning, Data Science, and more!
-- 🌱 I’m currently learning more about human-computer interaction!
+<!--- 👀 I’m interested in a full-time position in UI/UX, Human-Computer Interaction, Artificial Intelligence, Machine Learning, Data Science, and more!--->
+<!--- 🌱 I’m currently learning more about human-computer interaction! --->
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: btang.tsp@gmail.com
 
